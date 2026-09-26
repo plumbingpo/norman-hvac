@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://normanhvacco.com/sitemap.xml
